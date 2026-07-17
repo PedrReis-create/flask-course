@@ -61,7 +61,7 @@ Flask_Blog/
 Clone the repository:
 
 ```bash
-git clone https://github.com/PedrReis-create/Flask_Blog.git
+git clone https://github.com/PedrReis-create/flask-course.git
 ```
 
 Navigate to the project folder:
